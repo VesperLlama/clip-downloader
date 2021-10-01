@@ -15,3 +15,7 @@ A simple shell script to extract and download clips from videos on streaming sit
 4. Select the resolution to download  
 5. Enter the start and end time in the format  
    ``hh:mm:ss``
+
+# Credits
+- [youtube-dl](https://github.com/ytdl-org/youtube-dl)
+- [FFMpeg](https://ffmpeg.org/)
